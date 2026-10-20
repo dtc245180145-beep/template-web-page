@@ -1,0 +1,10 @@
+/* Sửa tên lớp điều hướng cho thống nhất với HTML */
+.rightNav {
+    width: 30%;
+    text-align: right;
+}
+
+/* Đảm bảo hình ảnh và văn bản đảo vị trí đúng */
+.section-Left {
+    flex-direction: row-reverse;
+}
